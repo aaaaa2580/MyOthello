@@ -1,7 +1,3 @@
-//可行棋位置
-//限时（弹窗和倒计时和到时提醒）
-//悔棋（看情况）
-//完善存档和读档
 package org.Othello.GUI;
 import org.Othello.Game.ReversiGame;
 import javax.swing.*;

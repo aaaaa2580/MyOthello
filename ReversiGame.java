@@ -1,4 +1,3 @@
-
 package org.Othello.Game;
 import java.util.ArrayList;
 public class ReversiGame {
@@ -248,7 +247,7 @@ public class ReversiGame {
     }
 
     public int getCurrentPlayer() {
-    return currentPlayer;}
+        return currentPlayer;}
     public void resetGame() {
         for (int i = 0; i < s; i++) {
             for (int j = 0; j < s; j++) {
